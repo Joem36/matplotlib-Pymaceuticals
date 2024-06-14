@@ -1,6 +1,7 @@
 # matplotlib-challenge
 -Pymaceuticals Inc. Analysis
 -Overview
+
 This project analyzes the results of a drug trial conducted by Pymaceuticals Inc. to determine the effectiveness of various drug regimens in reducing tumor size in mice. The analysis focuses on four key drugs: Capomulin, Ramicane, Infubinol, and Ceftamin. The primary goal is to identify the drug regimens that effectively reduce tumor size and understand the overall impact on the mice.
 
 Analysis Summary
